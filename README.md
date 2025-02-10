@@ -70,8 +70,3 @@ Additional outcomes from the cryptography module:
   - Functions and parameters
   - Basic ASCII concepts
   - Simple mathematics (modulo operations)
-
-## Available Languages
-The workshop materials are available in:
-- English
-- German (including the cryptography notebook)
